@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi 👋 I'm Dan
 
-<!--
-**Dannyy16/Dannyy16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I enjoy building things with code and learning along the way.
+Mostly focused on **AI**, **automation**, and **Telegram bots** 🤖
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## A bit about me
+
+* 🤖 I build Telegram bots & userbots
+* 🛠️ I like creating scraping and automation tools
+* 🚀 I learn best by building real projects and experimenting
+
+---
+
+## Tools I use
+
+* Python
+* Telethon / Pyrogram
+* Linux & Git
+
+---
