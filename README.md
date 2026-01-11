@@ -1,22 +1,18 @@
-# Hi 👋 I'm Dan
-
-I enjoy building things with code and learning along the way.
-Mostly focused on **AI**, **automation**, and **Telegram bots** 🤖
-
+##أهلين، انا دان👋🏻
+مبرمج مختص باللغة (بايثون). 
+عراقي الجنسيه، اهتمامي مركز على **الذكاء الاصطناعيّ** و **الأتمته** و بناء البوتات الخدميه. 
 ---
 
-## A bit about me
+##اكثر عني
 
-* 🤖 I build Telegram bots & userbots
-* 🛠️ I like creating scraping and automation tools
-* 🚀 I learn best by building real projects and experimenting
-
+* 🤖أبني بوتات تليجرام، و يوزر بوتس كذالك (سورسات بالعاميه) 
+* 🛠️ احب اسوي ادوات سكرابنغ (Scraping) للويب و غيرها من شبيها من الادوات. 
 ---
 
-## Tools I use
+## ادوات استخدمها لشغلي. 
 
 * Python
-* Telethon / Pyrogram
+* Telethon / Pyrogram / bs4, etc. 
 * Linux & Git
 
 ---
